@@ -1,5 +1,5 @@
-- 👋 Hi, I’m Himanshu Gupta
-- 👀 I’m interested in Artificial Intelligence,Machine Learning,Programming
+- 👋 Salut, je suis Himanshu Gupta
+-  I’m interested in Artificial Intelligence,Machine Learning,Programming and 🤖.
 - 🌱 I’m currently learning Machine Learning
 - 💞️ I’m looking to collaborate on Start Ups
 - 📫 How to reach me ...
