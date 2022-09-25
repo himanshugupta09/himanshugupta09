@@ -1,4 +1,6 @@
-<h1 align="center">Hi 👋, I'm Himanshu Gupta</h1>
+### Hey there :wave:
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=This+is+Himanshu+Gupta)](https://git.io/typing-svg)
+
 <h3 align="center">A passionate Machine Learning Engineer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=himanshugupta09&label=Profile%20views&color=0e75b6&style=flat" alt="himanshugupta09" /> </p>
