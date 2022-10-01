@@ -6,7 +6,6 @@
 
 ###### Glad to see you here :heart:
 
-[![@himanshugupta09's Holopin board](https://holopin.io/api/user/board?user=himanshugupta09)](https://holopin.io/@himanshugupta09)
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=himanshugupta09&label=Profile%20views&color=0e75b6&style=flat" alt="himanshugupta09" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=himanshugupta09" alt="himanshugupta09" /></a> </p>
