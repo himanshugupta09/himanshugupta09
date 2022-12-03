@@ -20,6 +20,7 @@
 
 - 📫 How to reach me **himanshug092003@gmail.com**
 
+<h2 align = "left"><b>Achievements<b></h2>
 [![@himanshugupta09's Holopin board](https://holopin.me/himanshugupta09)](https://holopin.io/@himanshugupta09)
 <h3 align="left">Connect with me:</h3>
 <p align="left">
