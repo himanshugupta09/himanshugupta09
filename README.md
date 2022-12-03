@@ -19,9 +19,10 @@
 - 💬 Ask me about **Python, CPP, Frontend design**
 
 - 📫 How to reach me **himanshug092003@gmail.com**
-
+<p>
 <h2 align = "left"><b>Achievements<b></h2>
-[![@himanshugupta09's Holopin board](https://holopin.me/himanshugupta09)](https://holopin.io/@himanshugupta09)
+  [![@himanshugupta09's Holopin board](https://holopin.me/himanshugupta09)](https://holopin.io/@himanshugupta09)
+</p>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://codepen.io/pspeed_terror125" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="pspeed_terror125" height="30" width="40" /></a>
