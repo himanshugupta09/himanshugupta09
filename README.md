@@ -32,6 +32,7 @@
 <a href="https://www.leetcode.com/nightHawk48" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="himanshu45exe" height="30" width="40" /></a>
 <a href="https://www.hackerearth.com/himanshug092003" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="himanshug092003" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/himanshug092003" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="himanshug092003" height="30" width="40" /></a>
+[![Netlify Status](https://api.netlify.com/api/v1/badges/2d1c3ed2-d99b-4296-bcfa-0403d5fcecad/deploy-status)](https://app.netlify.com/sites/mausamjanoo/deploys)
 
 </p>
 
