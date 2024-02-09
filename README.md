@@ -2,7 +2,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=This+is+Himanshu+Gupta)](https://git.io/typing-svg)
 
 
-<h3 align="center">A Problem Solver and fast Learner from India</h3>
+<h3 align="center">A Problem Solver and Programmer</h3>
 
 ###### Glad to see you here :heart:
 
